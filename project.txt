@@ -1,0 +1,16 @@
+RESERVATION SYSTEM:
+	#.passenger name
+	#.bus no
+	#.date
+
+Bus:
+----
+ #.busno
+ #.ac
+ #.capacity
+
+booking:
+--------
+ #.passengername
+ #.busno
+ #.date
